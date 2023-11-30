@@ -7,7 +7,6 @@
 	"githubRepoName": "microsoft/vscode-dev-containers",
 	"containersPathInRepo": "containers",
 	"historyFolderName": "history",
-	"repoContainersToBuildPath": "repository-containers/images",
 	"scriptLibraryPathInRepo": "script-library",
 	"scriptLibraryFolderNameInDefinition": "library-scripts",
 	"historyUrlPrefix": "https://github.com/microsoft/vscode-dev-containers/tree/main/containers/",
@@ -28,11 +27,7 @@
 		"devcontainer-collection.json"
 	],
 
-	"needsDedicatedPage": [ 
-		"codespaces-linux",
-		"php",
-		"python-3"
-	],
+	"needsDedicatedPage": [],
 
 	"flattenBaseImage": [],
 
